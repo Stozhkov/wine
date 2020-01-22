@@ -1,0 +1,181 @@
+price;rating;rating_DEC-100;rating_GP;rating_GR;rating_JR;rating_JS;rating_LM;rating_RP;rating_TA;rating_VIN;rating_Vivino;rating_W&S;rating_WE;rating_WS;region_1;region_2;region_3;title;volume
+788;7.1;;;;;;;;;91;3.6;;;;Испания;Ла Манча;;"Familia Bastida, ""Drama"" Red Blend, La Mancha DO, 2015";0.75
+971;;;;;;92;;;;;;;;;Испания;Кастилия Ла Манча;;"Familia Bastida, ""Cimal"" Garnacha, La Mancha DO, 2016";0.75
+1047;;;91;;;;;;;;3.8;;90;;Испания;Кастилья и Леон;;"Marques de Montejos, ""Seleccion"" Mencia, 2015";0.75
+1345;;;;;;;;;;;4.1;;;;Италия;Абруццо;;"Cantina Frentana, ""60 Anni"" Montepulciano d'Abruzzo DOC Riserva, 2015";0.75
+1144;;;;;;;;91;;;3.8;;;;Франция;Лангедок-Руссийон;Кот дю Руссийон;"""Roc Gris"" Cotes du Roussillon Villages Tautavel AOC, 2015";0.75
+784;9.0;;;;;;;;;;3.7;;;;Италия;Апулия;;"Teanum, ""Favugne"" Rosso, San Severo DOP, 2017";0.75
+964;8.0;87;;;;;;;;;3.7;;;;Италия;Тоскана;Кьянти Классико;"San Michele a Torri, ""Tenuta La Gabbiola"" Chianti Classico DOCG, 2016";0.75
+1533;8.0;88;;;;90;;92;;;4;;;;Франция;Бордо;Грав;Chateau Brondelle, Graves AOC, 2015;0.75
+1006;;;;;;;;;;;3.8;;;;Италия;Абруццо;;"Cantina Frentana, ""Costa del Mulino"" Pecorino, Abruzzo DOC, 2018";0.75
+892;7.9;;;;;;;;;;;;86;88;Франция;Бордо;Кот де Блай;"""Chateau Les Jouberts"" Cuvee Prestige, Blaye Cotes de Bordeaux AOC, 2014";0.75
+995;;;;;;;;;;;3.8;;;83;Франция;Прованс;;"""Lavendette"" Rose, Alpes de Haute Provence IGP, 2018";0.75
+981;;;;;;;;;;;3.9;;;;Испания;Мурсия;Хумилья;"""Chopo"" Monastrell Rose, Jumilla DOP, 2018";0.75
+1167;;;;;;;;;;;4;;;;Италия;Апулия;Пулья;"Cantina Diomede, ""Orea"" Primitivo, Puglia IGP, 2017";0.75
+1240;8.5;;89;;;90;;;90;91;3.8;;87;88;Испания;Риоха;;Ramirez de la Piscina, Crianza, Rioja DOCa, 2015;0.75
+853;7.7;;;;;;;90;;;;;;;Испания;Валенсия;;Rafael Cambra, Soplo, Valencia DO, 2014;0.75
+936;;;;;;;;;;;3.7;;;;Италия;Апулия;Пулья;"Cantina Diomede, ""Folia"" Rosato Negroamaro, Puglia IGP, 2018";0.75
+792;;;;;;;;;;;3.8;;;;Италия;Апулия;Пулья;"Cantina Diomede, ""Folia"" Bombino Bianco, Puglia IGP, 2018";0.75
+1730;7.7;;;2;;90;89;;;;3.9;;87;90;Италия;Тоскана;Кьянти Колли Сенези;"Tenuta di Trecciano, ""Terra Rossa"" Chianti Colli Senesi Riserva DOCG, 2015";0.75
+1919;10.0;;;;;;;90;;;4.1;;;;Испания;Риоха;;"""Victoria Diez-Caballero"" Reserva, Rioja DOCa, 2010";0.75
+1228;;;;;;91;;;;;3.8;;;;Испания;Мурсия;Хумилья;"Familia Bastida, ""Finca el Lince"" Red Blend, Jumilla DO, 2016";0.75
+761;9.0;;;;;;;;;;3.8;;;;Испания;Мурсия;Хумилья;"Alceno, ""Rio Lilo"" Sauvignon Blanc-Airen, Jumilla DOP, 2018";0.75
+1991;8.3;;;;;;;91;;;3.8;;91;87;Франция;Бордо;О'Медок;Chateau du Taillan, Haut-Medoc AOC, 2014;0.75
+1750;10.0;;89;;;;;;92;;4;;;;Испания;Риоха;;Ramirez de la Piscina, Reserva, Rioja DOCa, 2014;0.75
+902;8.1;;;;;;;;;;3.9;;;;Новая Зеландия;Мальборо;;Brancott Estate, Marlborough Sauvignon Blanc;0.75
+835;7.7;;;;;;;;;;3.8;;;;Грузия;Кахетия;;Askaneli Brothers, Rkatsiteli Qvevri;0.75
+780;8.1;;;;;;;;;;3.6;;;;Португалия;Винью Верде;;"""Toucas"", Vinho Verde DOC, 2018";0.75
+675;8.2;;;;;;;;;;3.9;;;;Италия;Апулия;Пулья;"Femar Vini, ""Montecore"" Primitivo, Puglia IGP";0.75
+678;7.8;;;;;;;;;;3.6;;;;Испания;Риоха;;"""Campo Viejо"" Tempranillo, Rioja DOC";0.75
+773;8.0;;;;;;;;;;3.9;;;;США;Калифорния;;"""770 Miles"" Zinfandel";0.75
+1342;8.3;;;;;;;;;;4.4;;;;Новая Зеландия;Мальборо;;"""Caroline Bay"" Sauvignon Blanc, 2018";0.75
+1140;7.5;;;;;;;;;;4.2;;;;Германия;Мозель-Саар-Рувер;;Nik Weis, Urban Riesling, 2018;0.75
+825;7.6;;;;;;;;;;3.8;;;;Грузия;Кахетия;Киндзмараули;Вазиани, Киндзмараули;0.75
+840;8.1;;;;;;;;;;3.7;;;;Австралия;;;"""Camden Park"" Shiraz, 2017";0.75
+681;8.1;;;;;;;;;;3.8;;;;США;Калифорния;Долина Напа;Redwood Vineyards, Pinot Noir;0.75
+1281;7.7;;;;;;;;;;3.9;;;;Испания;Торо;;"Matsu, ""El Picaro"", 2018";0.75
+1181;8.4;;;;;;;;;;4.1;;;;Италия;Апулия;Пулья;"""Luccarelli"" Negroamaro, Puglia IGP, 2017";0.75
+1352;7.7;;;;;;;;;;3.8;;;;Италия;Трентино-Альто Адидже;;"""Mastri Vernacoli"" Gewurztraminer, Trentino DOC, 2018";0.75
+613;8.1;;;;;;;;;;3.3;;;;Израиль;Галилея;;"""Monfort Village"" Carignan Dry Red";0.75
+740;6.9;;;;;;;;;;3.5;;;;Португалия;;;Sogrape Vinhos, Gazela Vinho Verde DOC;0.75
+1463;8.0;;;;;;;;;;4.3;;;;Новая Зеландия;Мальборо;;"""Russian Jack"" Sauvignon Blanc, 2018";0.75
+866;7.3;;;;;;;;;;3.6;;;;Франция;Долина Роны;Кот-дю-Рон;Bouchard Aine et Fils, Cotes-du-Rhone АОC;0.75
+529;8.4;;;;;;;;;;3.9;;;;Германия;Рейнхессен;;Peter Mertes, Gewurztraminer, 2016;0.75
+678;6.8;;;;;;;;;;3.3;;;;Чили;Центральная Долина;Кольчагуа;"Luis Felipe Edwards, ""Reserva"" Shiraz";0.75
+590;7.9;;;;;;;;;;3.5;;;;Испания;;;"Bodegas Milenium, ""Vega del Campo"" Verdejo";0.75
+1251;8.4;;;;;;;;;;3.9;;;;США;Калифорния;;"Boutinot, ""The Big Top"" Zinfandel Red, 2017";0.75
+840;8.3;;;;;;;;;;3.8;;;;Франция;Лангедок-Руссийон;Минервуа;"""Le Grand Noir"" Malbec, Pays d'Oc IGP, 2018";0.75
+785;7.0;;;;;;;;;;3.9;;;;Франция;Лангедок-Руссийон;Кото дю Лангедок;"Tutti Frutti, ""Arrogant Frog"" Blanc, 2018";0.75
+696;7.4;;;;;90;;;;;3.7;;;;Испания;Кастилия Ла Манча;;"""FYI"" Red Blend";0.75
+560;9.0;;;;;;;;;;3.8;;;;Италия;Венето;Венеция;Cielo e Terra, Trebbiano-Pinot Grigio, 2018;0.75
+786;;;;;;;;;;;3.5;;;;ЮАР;Западный Кейп;;"KWV, ""Classic Collection"" Chardonnay, 2018";0.75
+874;7.3;;;;;;;;;;3.8;;;;Франция;Лангедок-Руссийон;;"""Marquieres"" Vendanges d'Une Nuit, Languedoc-Roussillon IGP";0.75
+740;8.2;;;;;;;;;;3.6;;;;Португалия;Дору;;"Sogrape Vinhos, ""Gazela"" Rose";0.75
+555;6.2;;;;;;;;;;3.4;;;;Италия;Венето;;"Fratelli Martini, ""Sant'Orsola"" Pinot Grigio delle Venezie DOC";0.75
+957;7.6;;;;;;;;;;4.2;;;;Италия;Венето;Венеция;"Tenuta Valleselle, ""Arnasi"" Pinot Grigio delle Venezie IGP";0.75
+660;6.0;;;;;;;;;;3.2;;;;Италия;Тоскана;Кьянти;"Fratelli Martini, ""Sant'Orsola"" Chianti DOCG";0.75
+640;;;;;;;;;;;3.8;;;;Италия;Венето;Венеция;"Cielo e Terra, Pinot Grigio ""Blush"" IGT, 2018";0.75
+990;10.0;;;;;;;;;;4;;;;США;Калифорния;;Fetzer, Zinfandel, Valley Oaks, 2018;0.75
+762;8.1;;;;;;;;;;3.5;;;;Испания;Риоха;Риоха Альта;"Patrocinio, ""Sancho Garces"" Tempranillo, Rioja DOC";0.75
+1214;8.8;;;;;;;;;;4;;;;Италия;Апулия;Саленто;"Cantine San Giorgio, ""WhyNot?!"" Zinfandel, Salento IGP";0.75
+1102;10.0;;;;;;;;;;4;;;;Франция;Лангедок-Руссийон;;"Les Jamelles, ""Cepage Rare"" Malbec, Pays d'Oc IGP, 2018";0.75
+613;8.8;;;;;;;;;;3.7;;;;Израиль;Галилея;;Barkan, Semillon Monfort;0.75
+947;8.8;;;;;;;;;;4;;;;Германия;Пфальц;;A. Diehl, Gewurztraminer;0.75
+1107;7.0;;;;;;;;;;3.8;;;;Грузия;Кахетия;;Askaneli Brothers, Rkatsiteli Qvevri, gift box;0.75
+954;8.1;;;;;;;;;;3.6;;;;Австрия;Нижняя Австрия;;Lenz Moser, Gruner Veltliner, 1 л;1
+1140;7.9;;;;;;;;;;4.3;;;;Новая Зеландия;Мальборо;;"Misty Cove, ""Paddle Creek"" Sauvignon Blanc, 2018";0.75
+692;5.7;;;;;;;;;;4;;;;Италия;Апулия;Пулья;Barbanera Since 1938, Negroamaro-Primitivo, Puglia IGT;0.75
+786;8.3;;;;;;;;;;3.6;;;;ЮАР;Западный Кейп;;"KWV, ""Classic Collection"" Pinotage";0.75
+864;;;;;;;;;;;3.8;;;;Италия;Тоскана;Кьянти;"Settesoli, ""Rondone"" Chianti DOCG, 2017";0.75
+957;8.2;;;;16.5;;;;;;3.8;;;;Грузия;Кахетия;Киндзмараули;"""Тамада"" Киндзмараули";0.75
+972;7.2;;;;;;;;;;3.5;;;90;Италия;Тоскана;Тоскана IGT;Cecchi, Sangiovese, Toscana IGT, 2016;0.75
+561;9.2;;;;;;;;;;4;;;;Македония;;;Stobi, Makedonsko Crveno, 1 л;1
+820;8.2;;;;;;;;;;3.8;;;;Франция;Лангедок-Руссийон;Минервуа;"""Le Grand Noir"" Rose, Pays d'Oc IGP, 2018";0.75
+1295;;;;;;;;;90;;3.9;;;;Испания;Риоха;Риоха Альта;Bodegas Ramon Bilbao, Crianza, Rioja DOC, 2016;0.75
+590;6.4;;;;;;;;;;2.9;;;;Италия;Лацио;;Tusculum Rosso Semi Sweet VdT;0.75
+690;6.1;;;;;;;;;;3.7;;;;Италия;Сицилия;;"""Bruni"" Nero d'Avola, Sicilia DOC";0.75
+840;7.0;;;;;;;;;;3.9;;;;Франция;Лангедок-Руссийон;Минервуа;"""Le Grand Noir"" Chardonnay, Pays d'Oc IGP, 2018";0.75
+840;8.0;;;;;;;;;;3.9;;;;Франция;Лангедок-Руссийон;Минервуа;"""Le Grand Noir"" GSM, Pays d'Oc IGP, 2017";0.75
+921;10.0;;;;;;;;;;3.8;;;;Чили;Центральная Долина;Кольчагуа;Viu Manent, Chardonnay Reserva, 2018;0.75
+1740;8.0;;;;;;;;;;4.3;;;;Италия;Трентино-Альто Адидже;Виньети делле Доломити (Вайнберг Доломитен);"""Pfefferer"" Weinberg Dolomiten IGT, 2018";0.75
+740;;;;;;;;;;;;;;;Италия;Апулия;Пулья;"Cielo e Terra, ""Primasole"" Primitivo, Puglia IGT, 2018";0.75
+534;8.8;;;;;;;;;;3.2;;;;Чили;Центральная Долина;;"Concha y Toro, ""Frontera"" Sauvignon Blanc";0.75
+840;10.0;;;;;;;;;;3.8;;;;Германия;Пфальц;;Hans Baer, Riesling, 2018;0.75
+866;8.5;;;;;;;;;;4;;;;Португалия;Винью Верде;;"Calcada, ""Lago"" Rose, Vinho Verde DOC";0.75
+673;7.0;;;;;;;;;;3.9;;;;Грузия;Кахетия;;Mildiani, Saperavi;0.75
+1099;7.0;;;;;;;;;;3.9;;;;Италия;Сардиния;Верментино ди Сардиния;Vigneti Zanatta, Vermentino di Sardegna DOC, 2018;0.75
+1399;7.4;;;;;;;;;;4;;;;Грузия;Кахетия;;Askaneli Brothers, Saperavi Premium;0.75
+820;8.4;;;;;;;;;;4;;;;Новая Зеландия;Мальборо;;"""Aotearoa"" Sauvignon Blanc";0.75
+928;6.0;;;;;;;;;;2.1;;;;Испания;;;"Elivo, ""Cardio Zero"" Tinto, No Alcohol";0.75
+737;7.0;;;;;;;;;;3.5;;83;;Испания;Валенсия;Утель-Рекена;"Vicente Gandia, ""Finca del Mar"" Chardonnay, Utiel-Requena DO, 2017";0.75
+1665;7.8;;;;;;;;;;3.9;;;;Грузия;;;Mildiani, Rkatsiteli Kvevri;0.75
+723;8.8;;;;;;;;;;4.5;;;;Грузия;Кахетия;;Mildiani, Tvishi;0.75
+920;9.1;;;;;;;;;;3.8;;;;Австралия;Юго-Восточная Австралия;;"""Tussock Jumper"" Shiraz";0.75
+510;9.0;;;;;;;;;;4.1;;;;Италия;Венето;;"""Freschello"" Bianco Sweet";0.75
+776;8.3;;;;;;;;;;4;;;;Франция;Лангедок-Руссийон;;"FDL, ""La Croix du Pin"" Muscat, Pays d'Oc IGP";0.75
+630;;;;;;;;;;;4;;;;Франция;Лангедок-Руссийон;Минервуа;"""Le Grand Noir"" Cabernet Sauvignon, Pays d'Oc IGP, 2018";0.75
+902;6.0;;;;;;;;;;3.4;;;;Новая Зеландия;Мальборо;;Brancott Estate, Pinot Noir, Marlborough;0.75
+983;;;;;;;;;;;4;;;;Италия;Венето;Верона;"Tenuta Valleselle, ""Ripa Magna"", Corvina della Provincia di Verona IGP";0.75
+1593;7.0;;;;;;;;;;3.8;;;;США;Калифорния;;"""Gnarly Head"" Old Vine Zinfandel, 2017";0.75
+994;5.8;;;;;;;90;;;3.7;;;;Франция;Лангедок-Руссийон;Кот дю Руссийон;M. Chapoutier, Les Vignes de Bila-Haut, Cotes du Roussillon AOC, 2017;0.75
+595;7.0;;;;;;;;;;3.5;;;;Грузия;;;Badagoni, Saperavi;0.75
+534;7.2;;;;;;;;;;3.2;;;;Чили;Центральная Долина;;"Concha y Toro, ""Frontera"" Chardonnay";0.75
+2372;7.8;;;;;;;;;;4.2;;;;Грузия;Рача;;Chateau Mukhrani, Khvanchkara AOC;0.75
+696;7.0;;;;;;;;;;3.9;;;;Испания;Кастилия Ла Манча;;"""Mucho Mas"" Tempranillo, La Mancha DO";0.75
+765;;;;;;;;;;;;;;;Италия;Венето;Венеция;"""Sanvigilio"" Pinot Grigio Rose, Venezie IGT, 2018";0.75
+1460;8.3;;;;;;;;;;4.1;;;;Франция;Эльзас;;Julien Riehl, Gewurztraminer, Alsace AOP;0.75
+1401;10.0;;;;;;;;;;3.9;;;;Италия;Тоскана;Тоскана IGT;"""Villa Antinori"" Bianco, Toscana IGT, 2018";0.75
+1005;7.5;;;;;;;;;;3.5;;;;Израиль;Галилея;;"Barkan, ""Classic"" Shiraz";0.75
+720;;;;;;;;;;;3.5;;;;Грузия;Кахетия;Мукузани;Вазиани, Мукузани;0.75
+1399;8.8;;;;;;;;;;3.8;;;;ЮАР;Западный Кейп;Стелленбош;Simonsig, Pinotage, 2016;0.75
+822;10.0;;;;;;;;;;3.7;;;;Португалия;Лиссабон;;"Quinta do Conde, ""Galodoro"" Reserva, 2016";0.75
+1081;7.5;;;;;;;;;;2.7;;;;Испания;;;"Elivo, ""Zero Zero"" Deluxe Tinto, No Alcohol";0.75
+869;5.5;;;;;;;;;;3.9;;;;Италия;Эмилия-Романья;Эмилия;"Il Poggiarello, ""Perticato Il Quadri"" Sauvignon IGT";0.75
+897;8.0;;;;;;;;;;3.6;;;;Чили;Центральная Долина;Долина Маипо;"""Casillero del Diablo"" Carmenere Reserva";0.75
+590;8.4;;;;;;;;;;3.3;;;;Испания;;;"Bodegas Milenium, ""Vega del Campo"" Tempranillo";0.75
+907;;;;;;;;;;;;;;;Франция;Лангедок-Руссийон;;"""King Rabbit"" Merlot, Pays d'Oc IGP, 2018";0.75
+720;;;;;;;;;;;3.9;;;;Италия;;;"""Astrale"" Bianco";0.75
+640;;;;;;;;;;;3.5;;;;ЮАР;Западный Кейп;;"""Deep Creek"" Pinotage";0.75
+672;6.8;;;;;;;;;;3.9;;;;Германия;Мозель-Саар-Рувер;;"""Weinhaus Schneider"" Riesling Halbtrocken";0.75
+990;7.0;;;;;;;;;;;;;;Аргентина;Мендоса;Лухан де Куйо;"Malbec Finca ""La Linda"", 2018";0.75
+867;7.5;;;;;;;;;;4.1;;;;Грузия;Кахетия;Киндзмараули;Badagoni, Kindzmarauli;0.75
+928;4.3;;;;;;;;;;3.7;;;;Франция;Лангедок-Руссийон;;"""Paul Mas"" Chardonnay, Pays d'Oc IGP, 2018";0.75
+1298;;;;;;;;;;;3.2;;;;США;Калифорния;Долина Напа;Beringer, White Zinfandel, 2017;0.75
+1194;8.4;;;;;;;;;;4.1;;;;Грузия;Кахетия;;"""Картули Вази"" Киндзмараули";0.75
+1381;7.8;;;;;;;;;;3.8;91;;;Аргентина;Долина Кальчаки;;"""Amalaya"", 2017";0.75
+743;6.5;;;;;;;;;;3.2;;;;Италия;Тоскана;Кьянти;"Chianti DOCG ""Caretti""";0.75
+765;;;;;;;;;;;3.6;;;;Италия;Трентино-Альто Адидже;;"""Sanvigilio"" Pinot Grigio, Provincia di Pavia IGT, 2018";0.75
+597;6.8;;;;;;;;;;3.6;;;;ЮАР;Западный Кейп;;"""Massai"" Pinotage";0.75
+2777;8.1;;;;;;;;;;4.1;;;;Италия;Венето;Амароне делла Вальполичелла Классико;"""Aristocratico"" Amarone della Valpolicella DOCG";0.75
+1081;6.6;;;;;;;;;;1;;;;Испания;;;"Elivo, ""Zero Zero"" Deluxe Blanco, No Alcohol";0.75
+763;;;;;;;;;;;2.4;;;;Германия;;;Carl Jung, Chardonnay Alkoholfreier;0.75
+920;9.0;;;;;;;;;;3.7;;;;Испания;Наварра;;"""Baluarte"" Roble, Navarra DO, 2017";0.75
+2233;5.7;;;;;;;;;;4.3;;;;Италия;Апулия;Примитиво ди Мандурия;"Luccarelli, ""Campo Marina"" Primitivo di Manduria DOP, 2017";0.75
+1079;7.0;;;;;;;;;;4.1;;;;Грузия;Кахетия;;"""Мегобари"" Оджалеши";0.75
+609;8.3;;;;;;;;;;3.8;;;;Франция;Лангедок-Руссийон;;J.P.Chenet, Medium Sweet Vin de Pays;0.75
+681;8.0;;;;;;;;;;3.3;;;;Израиль;Галилея;;"Barkan, ""Kinor"" Sacramental";0.75
+535;8.8;;;;;;;;;;3.4;;;;Франция;Арманьяк;Кот де Гасконь;"Barton & Guestier, ""Reserve"" Sauvignon Blanc, Cotes de Gascogne IGP";0.75
+1065;7.6;;;;;;;;;;3.8;;;;Германия;Мозель-Саар-Рувер;;"""Edition Abtei Himmerod"" Riesling Spatlese, Mosel";0.75
+1127;7.3;;;;;;;;;;3.8;;;;Грузия;Кахетия;;"Palavani, Rkatsiteli ""Qvevri""";0.75
+609;6.3;;;;;;;;;;3.3;;;;Франция;Лангедок-Руссийон;;J. P. Chenet, Cabernet-Syrah, Pays d'Oc IGP;0.75
+592;;;;;;;;;;;4.1;;;;Франция;Юго-запад Франции;Гасконь;"Haut Marin, ""Littorine"" Colombard & Ugni Blanc, Cotes de Gascogne IGP";0.75
+649;;;;;;;;;;;3.4;;;;Испания;Кастилия Ла Манча;;"Finca La Estacada, ""Hello World!"" Viognier";0.75
+786;7.9;;;;;;;;;;;;;;Франция;Лангедок-Руссийон;;"""Bonne Nouvelle"" Merlot";0.75
+896;6.0;;;;;;;;;;3.7;;;;Италия;Тоскана;Кьянти;"Bonacchi, ""Borghetto"" Chianti DOCG Riserva";0.75
+921;3.4;;;;;;;;;;;;88;;Франция;Лангедок-Руссийон;;"""Recital"" Sauvignon Blanc, Pays d'Oc, 2017";0.75
+573;7.0;;;;;;;;;;;;;;Крым;;;"""Меганом"" Красное";0.75
+691;;;;;;;;;;;3.7;;;;Испания;Вальдепеньяс;;"""Casa Bataneros"" Verdejo Sauvignon Blanc, Valdepenas DO";0.75
+534;7.0;;;;;;;;;;3.3;;;;Чили;Центральная Долина;;"Concha y Toro, ""Frontera"" Carmenere";0.75
+555;9.0;;;;;;;;;;3.8;;;;Португалия;Винью Верде;;"""Pavao"" Escolha, Vinho Verde DOC, 2018";0.75
+861;8.6;;;;;;;;;;3.8;;;;Грузия;Кахетия;;Askaneli Brothers, Manavi;0.75
+1601;;;;;;90;;86;;;4;;91;89;Новая Зеландия;Мальборо;;"Giesen, ""Estate"" Sauvignon Blanc, 2017";0.75
+990;;;;;;;;;;;4.3;;;;Франция;Долина Луары;Розе д'Анжу;"Marcel Martin, ""La Jaglerie"" Rose d'Anjou AOP, 2018";0.75
+2041;;;;;;;;;;;3.8;;;87;США;Калифорния;;Murphy-Goode, Pinot Noir, 2016;0.75
+1271;7.0;;;;;;;;;;5;;;88;Италия;Пьемонт;Ланге;"Fontanafredda, ""Briccotondo"" Dolcetto, Langhe DOC, 2016";0.75
+1129;8.2;;;;;;;;;;3.7;;;;США;Калифорния;;"""Tussock Jumper"" Zinfandel";0.75
+522;8.3;;;;;;;;;;3.1;;;;Германия;Рейнхессен;;"Peter Mertes, ""Schloss Sommerau"" White Sweet Alcoholfree";0.75
+581;;;;;;;;;;;3.6;;;;Крым;;;"""Кагор Солнечной Долины""";0.75
+1296;6.2;;;;;;;;;;3.6;;;;Россия;Краснодарский край;;"Сикоры, Каберне Совиньон ""Премиум"", 2014";0.75
+1215;8.2;;;;;;;;;;4.2;;;;Италия;Апулия;Пулья;"Duca di Saragnano, ""Alchymia"" Primitivo, Puglia IGT";0.75
+640;8.0;;;;;;;;;;3.8;;;;ЮАР;Западный Кейп;;"""Deep Creek"" Chenin Blanc";0.75
+1290;;;;;;;;;;;3.8;;;;ЮАР;Паарл;;"Fairview, ""La Capra"" Pinotage, 2017";0.75
+1140;5.0;;;;;;;;;;4;;;;Италия;Фриули-Венеция-Джулия;Фриули Грав;"""Priara"" Pinot Grigio, DOC Friuli Grave, 2018";0.75
+520;10.0;;;;;;;;;;3.5;;;;Италия;Венето;Венеция;Terre Allegre Trebbiano Veneto IGT Semi Sweet;0.75
+692;9.4;;;;;;;;;;3.7;;;;Испания;Валенсия;;"""Tussock Jumper"" Moscato";0.75
+1368;6.7;;;;;;;;;;4.2;;;;Греция;Македония;Афон;Kagor from Holy Mount Athos;0.75
+637;;;;;;;;;;;2.5;;;;Германия;;;"Carl Jung, ""Selection Rose"" Alkoholfreier";0.75
+1106;8.5;;;;;;;;;;3.5;;;;Австралия;Южная Австралия;;"""Jacob's Creek"" Shiraz Reserve";0.75
+712;5.0;;;;;;;;;;3.5;;;;ЮАР;Западный Кейп;Долина Робертсон;Robertson Winery, Cabernet Sauvignon, 2017;0.75
+1206;7.3;;;;;;;;;;3.6;;;;Италия;Венето;Вальполичелла;Lenotti, Valpolicella DOC Classico;0.75
+1377;5.0;;;;;;;91;;;3.7;;;;Франция;Долина Роны;Кот дю Ванту;"Alain Jaume & Fils, ""Les Gelinottes"", Ventoux AOC, 2017";0.75
+1028;7.5;;;;;;;;;;4;;;;Испания;Мурсия;Хумилья;"Finca Bacara, ""Yeya"", Jumilla DOP";0.75
+921;;;;;;;;;;;;;86;;Франция;Лангедок-Руссийон;;"""Recital"" Cabernet Sauvignon, Pays d'Oc, 2017";0.75
+817;6.0;;;;;;;;;;3.9;;;;Италия;Апулия;Саленто;"Cantine Due Palme, ""San Marco"" Rosso, Salento IGT, 2018";0.75
+504;6.0;;;;;;;;;;3.3;;;;Португалия;Лиссабон;;"""Mundus"" Branco";0.75
+628;8.7;;;;;;;;;;3.5;;;;Крым;;;"Инкерман, Каберне ""Качинское""";0.75
+1057;7.6;;;;;;;;;;3.9;;;;Грузия;Кахетия;;Chateau Mukhrani, Saperavi Superieur;0.75
+897;8.9;;;;;;;;;;3.5;;;;Чили;Центральная Долина;Долина Маипо;"""Casillero del Diablo"" Cabernet Sauvignon Reserva";0.75
+1065;8.3;;;;;;;;;;3.7;;;;Италия;Тоскана;;"Piccini, ""Memoro"" Rosso";0.75
+609;8.3;;;;;;;;;;3.4;;;;Франция;Лангедок-Руссийон;;J. P. Chenet, Colombard-Chardonnay, Vin de France;0.75
+822;9.5;;;;;;;;;;3.3;;;;Крым;;;"""Esse"" Rose";0.75
+1102;9.0;;;;;;;;;;4;;;;Франция;Лангедок-Руссийон;;Les Jamelles, Syrah, Pays d'Oc IGP, 2017;0.75
